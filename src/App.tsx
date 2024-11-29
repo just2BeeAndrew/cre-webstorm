@@ -5,7 +5,8 @@ function App() {
   return (
       <div>
           <div>App</div>
-          <div>Dev branch commit</div>
+          <div>Dev branch commit 1</div>
+          <div>Dev branch commit 2</div>
       </div>
 
   );
